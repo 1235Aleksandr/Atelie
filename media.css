@@ -1,0 +1,13 @@
+@media screen and (max-width: 800px) {
+    .header__logo {
+        display: none;
+    }
+    /*43535345345
+    345345345
+    34534*/
+}
+@media screen and (max-width: 650px) {
+    .navigation {
+        display: none;
+    }
+}
